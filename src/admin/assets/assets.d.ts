@@ -19,4 +19,5 @@ declare module '*.png' {
 declare module '*.json' {
   const content: string;
   export default content;
+  
 }
